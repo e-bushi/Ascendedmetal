@@ -12,6 +12,8 @@
 
 ### Characters:
 
-    - Internet Voice Over: Matthew McConoughey
-    - Lara: Scarlett Johannson
-    - Samis: Leonardo DiCaprio
+    - Internet Voice Over: Chris Mauldin
+    - Lara: Laurel Machak
+    - Samis: Egon Fiedler
+    - Evil Internet Entity: Aakash Sudhakar
+    - Internet Gandalf: Adam Braus
