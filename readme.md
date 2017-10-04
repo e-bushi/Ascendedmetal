@@ -18,5 +18,5 @@
     - Evil Internet Entity: Aakash Sudhakar
     - Internet Gandalf: Adam Braus
     - Other Planet Spirit: Kaichi Momose
-    - Hoop God: Sunny Ouyang
-    - Brick Lord: Chris Mauldin when he's 80 years old
+    - Super Saiyan Hoop God: Sunny Ouyang
+    - Brick Lord power level under 9000: Chris Mauldin 26 years old
