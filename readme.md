@@ -12,8 +12,11 @@
 
 ### Characters:
 
-    - Internet Voice Over: Chris Mauldin
+    - Internet Voice Over: Fat Majiin Buu
     - Lara: Laurel Machak
     - Samis: Egon Fiedler
     - Evil Internet Entity: Aakash Sudhakar
     - Internet Gandalf: Adam Braus
+    - Other Planet Spirit: Kaichi Momose
+    - Hoop God: Sunny Ouyang
+    - Brick Lord: Chris Mauldin when he's 80 years old
